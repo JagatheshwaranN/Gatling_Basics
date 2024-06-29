@@ -1,0 +1,6 @@
+${env.REPO_HOME}/
+.gatling/
+.idea/
+.m2/
+.mvn/
+target/

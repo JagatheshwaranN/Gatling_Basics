@@ -5,16 +5,16 @@
 
   <groupId>io.gatling.demo</groupId>
   <artifactId>gatling-maven-plugin-demo-java</artifactId>
-  <version>3.11.4</version>
+  <version>3.11.5</version>
 
   <properties>
     <maven.compiler.release>11</maven.compiler.release>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-    <gatling.version>3.11.4</gatling.version>
-    <gatling-maven-plugin.version>4.9.4</gatling-maven-plugin.version>
+    <gatling.version>${project.version}</gatling.version>
+    <gatling-maven-plugin.version>4.9.5</gatling-maven-plugin.version>
     <maven-compiler-plugin.version>3.13.0</maven-compiler-plugin.version>
     <maven-resources-plugin.version>3.3.1</maven-resources-plugin.version>
-    <maven-jar-plugin.version>3.4.1</maven-jar-plugin.version>
+    <maven-jar-plugin.version>3.4.2</maven-jar-plugin.version>
   </properties>
 
   <dependencies>

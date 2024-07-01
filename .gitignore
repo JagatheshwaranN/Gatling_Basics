@@ -1,6 +1,2 @@
-${env.REPO_HOME}/
-.gatling/
-.idea/
-.m2/
-.mvn/
-target/
+/target
+/.mvn/wrapper/*.jar
